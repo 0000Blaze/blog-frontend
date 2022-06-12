@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 
 export default function Post({ post }) {
-    const PF = "https://rohanpersonalblog.herokuapp.com/images/";
+    const PF = "https://blazeblog.herokuapp.com/images/";
     let dummy;
     return (
         <div className="post">
